@@ -7,7 +7,7 @@ By using OpenAI capabilities
 
 ### Prerequisites
 - Python 3+
-- `pip install --upgrade openai` - to install [OpenAI Python Library](https://github.com/openai/openai-python) and 
-configure the API key for OpenAI as an env var 
+- `pip install --upgrade openai` - to install [OpenAI Python Library](https://github.com/openai/openai-python)
+- `export OPENAI_API_KEY='sk-...' to configure your OpenAI API key as an env var 
 
 ### Prepare for usage
